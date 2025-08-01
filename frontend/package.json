@@ -1,0 +1,16 @@
+{
+  "name": "pflanzen-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Pflanzenverwaltung App",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
